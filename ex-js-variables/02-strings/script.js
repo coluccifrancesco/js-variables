@@ -31,4 +31,4 @@ console.log(fullName); // Output: "Jane Smith"
 const numberOfLettersInAlphabet = null;
 console.log(numberOfLettersInAlphabet); // Output: 26
 
-console.log(alphabet.length)
+console.log(alphabet.length);
